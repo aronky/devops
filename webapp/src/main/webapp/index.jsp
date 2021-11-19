@@ -33,5 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  
+  <h2> Great Course Content </h2>
+
 </form>
